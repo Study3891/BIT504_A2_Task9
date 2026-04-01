@@ -10,6 +10,10 @@ public class Main {
 		System.out.println("This is a fourth line of text");
 		System.out.println("This is a fifth line of text");
 
+		//New in branch 2
+		System.out.println("This is a sixth line of text");
+		System.out.println("This is a seventh line of text");
+
 	}
 
 }
